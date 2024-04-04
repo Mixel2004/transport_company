@@ -17,3 +17,6 @@ waiting time for consignments, and other administrative tasks.
 
 
 Tech Stack: Python (django)
+
+
+SRS document:- [Transport Company Computerization Software](https://github.com/Mixel2004/transport_company/blob/main/Transport%20Company%20Computerization%20Software.pdf "SRS doc")
